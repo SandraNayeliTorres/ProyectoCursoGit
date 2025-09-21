@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SandraNayeliTorres/ProyectoCursoGit/issues"
   },
-  "homepage": "https://github.com/SandraNayeliTorres/ProyectoCursoGit#readme"
+  "homepage": "https://github.com/SandraNayeliTorres/ProyectoCursoGit#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
